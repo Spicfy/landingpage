@@ -1,2 +1,2 @@
 # landingpage
-CSS final assignment for foundations of the Odin project
+CSS final assignment in foundations for the Odin project
